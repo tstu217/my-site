@@ -1,0 +1,16 @@
+body
+{
+    background-color: aqua;
+}
+
+
+#avatar
+{
+    display: block;
+    margin: 0 auto;
+}
+
+.container
+{
+    margin-top:200px;
+}
